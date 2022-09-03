@@ -1,0 +1,7 @@
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\Test.exe
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\Test.dll
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\Test.deps.json
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\Test.runtimeconfig.json
+C:\Users\Lowrance\source\repos\Test\Test\obj\Release\net6.0\PubTmp\Out\Test.pdb
