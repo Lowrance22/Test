@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     environment:
-      name: 'production'
+      name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
@@ -52,6 +52,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'lowrance'
-          slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6d709986a454490c83c2542ad4906132 }}
+          slot-name: 'Production'
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18D9F42F3B50412C85BDB3FB4E6A2385 }}
           package: .
